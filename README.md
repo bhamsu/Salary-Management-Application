@@ -1,3 +1,4 @@
+# Salary Management Application
 Basic GUI App based on our daily Money/Salary Management build on Python.
 
 This was my CBSE class 12 Python Computer Science project for the year 2020 at Kendriya Vidyalaya OF Dum Dum.
