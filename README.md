@@ -2,14 +2,14 @@
 Basic GUI App based on our daily Money/Salary Management build on Python.
 
 This was my CBSE class 12 Python Computer Science project for the year 2020 at Kendriya Vidyalaya OF Dum Dum.
-.
-.
-.
-.
-.
-.
-.
-.
+
+
+
+
+
+
+
+
 This is a simple program, users can use this to store or track their income and expenses in their daily life.
 This makes user free from remembering the investments.
 
